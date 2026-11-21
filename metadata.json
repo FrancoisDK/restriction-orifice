@@ -1,0 +1,6 @@
+{
+  "name": "OrificeLab",
+  "description": "Precision restriction orifice sizing for liquids and gases with cavitation, sonic velocity, multi-stage, and pressure drop predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
